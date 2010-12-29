@@ -30,3 +30,5 @@ filetype plugin indent on
 autocmd FileType python set complete+=k~/.vim/syntax/python.vim isk+=.,(
 
 let g:SuperTabMappingForward = '<s-tab>'
+
+let mapleader=","
