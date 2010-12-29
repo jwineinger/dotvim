@@ -1,3 +1,5 @@
+filetype off
+
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
@@ -26,3 +28,5 @@ filetype plugin on
 filetype plugin indent on
 
 autocmd FileType python set complete+=k~/.vim/syntax/python.vim isk+=.,(
+
+let g:SuperTabMappingForward = '<s-tab>'
