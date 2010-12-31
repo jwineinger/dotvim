@@ -28,6 +28,8 @@ filetype plugin on
 filetype plugin indent on
 
 autocmd FileType python set complete+=k~/.vim/syntax/python.vim isk+=.,(
+autocmd FileType python set ft=python.django " For SnipMate
+autocmd FileType html set ft=htmldjango.html " For SnipMate
 
 let g:SuperTabMappingForward = '<s-tab>'
 
