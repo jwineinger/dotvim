@@ -1,11 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/jwineinger/public_html/recipes-backend/recipes_backend/templates/admin'
-let g:netrw_dirhist_2='/etc/php5/apache2/conf.d'
-let g:netrw_dirhist_3='/home/jwineinger/public_html/LITTLECO.mcad/sites/all/modules/mcad/webform_uuid_export'
-let g:netrw_dirhist_4='/home/jwineinger/public_html/LITTLECO.mcad/sites/all/modules/mcad_features/mcad_community_course_category'
-let g:netrw_dirhist_5='/home/jwineinger/public_html/LITTLECO.mcad/sites/all/themes/mcad/templates'
-let g:netrw_dirhist_6='/home/jwineinger/public_html/LITTLECO.mcad/sites/all/modules/salesforce/sf_node'
-let g:netrw_dirhist_7='/home/jwineinger/public_html/LITTLECO.mcad/sites/all/modules/salesforce/salesforce_api'
-let g:netrw_dirhist_8='/home/jwineinger/public_html/LITTLECO.mcad/sites/all/modules/salesforce/salesforce_api/misc'
-let g:netrw_dirhist_9='/home/jwineinger/public_html/LITTLECO.mcad/sites/all/modules/salesforce/salesforce_api/toolkit/soapclient'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/jwineinger/public_html/threespot.nti_nmsi/nti_microsite/weights/migrations'
+let g:netrw_dirhist_2='/home/jwineinger/public_html/threespot.nti_nmsi/nti_microsite/calculations'
+let g:netrw_dirhist_3='/home/jwineinger/public_html/threespot.nti_nmsi/nti_microsite/countries'
