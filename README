@@ -13,3 +13,10 @@ git clone git@github.com:jwineinger/dotvim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 cd ~/.vim
 git submodule update --init
+
+
+# To add a new plugin as a submodule
+cd ~/.vim
+git submodule add git://github.com/user/repo.git bundle/name
+git ci -a -m "Added new bundle/submodule"
+git push
