@@ -34,3 +34,5 @@ autocmd FileType html set ft=htmldjango.html " For SnipMate
 let g:SuperTabMappingForward = '<s-tab>'
 
 let mapleader=","
+
+hi SpellBad cterm=underline ctermfg=red
